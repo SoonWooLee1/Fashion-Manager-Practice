@@ -1,4 +1,4 @@
-# 패션 매니저 - 패션 공유 커뮤니티
+# 패션 매니저 - 패션 공유 커뮤니티티티팉티
 
 <img width="1322" alt="Image" src="./image/banner.png" />
 
